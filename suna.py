@@ -5,5 +5,6 @@ def suna():
       print("Hai vina kamu cewe aku (suna)")
     else:
       print("Siapa sih kamu, ak ga kenal ga peduli y.")
+    print("terima kasih")
 
 suna()
