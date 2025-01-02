@@ -7,5 +7,6 @@ def suna():
         print("Apasih so asik.")
     else:
       print("Siapa sih kamu, ak ga kenal ga peduli y.")
+    print("terima kasih")
 
 suna()
